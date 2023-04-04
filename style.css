@@ -1,0 +1,20 @@
+* {
+   background-color: gainsboro;
+}
+.recipe-image {
+   width: 80%;
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right:auto;
+}
+
+h1 {
+   text-align: center;
+   font-size: 6vw;
+   font-family: monospace;
+   color:rgb(152, 67, 28);
+}
+
+
+
