@@ -1,5 +1,6 @@
 * {
    background-color: gainsboro;
+   font-family: sans-serif;
 }
 .recipe-image {
    width: 80%;
@@ -12,9 +13,7 @@
 h1 {
    text-align: center;
    font-size: 6vw;
-   font-family: monospace;
+   font-family: monospace, sans-serif;
    color:rgb(152, 67, 28);
 }
-
-
 
